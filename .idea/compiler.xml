@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="Civ3MPToolsMobile.shared.androidAndroidTest" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidAndroidTestDebug" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidDebug" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidDebugAndroidTest" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidDebugUnitTest" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidMain" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidRelease" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidReleaseUnitTest" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidTest" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidTestDebug" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.androidTestRelease" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.commonMain" target="1.6" />
+      <module name="Civ3MPToolsMobile.shared.commonTest" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
